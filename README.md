@@ -23,13 +23,6 @@ EsLint
 
 **Install Java 8 or above**, Allure Reports require Java 8 or higher.
 
-allure commandline : Install allure command line for generating Allure Reports using
-
-**npm i -D @playwright/test allure-playwright** 
-
-**npm i -D allure-commandline**
-
-
 
 **Installation**
 
@@ -44,8 +37,11 @@ For Browser Configuration, change required parameters in rstudioui.config.ts.
 
   
 For Executing the UI tests against specific browsers with standard HTML report, run the following commands:
+
 Chrome : **npm run testui:chromium**
+
 Firefox : **npm run testui:firefox**
+
 Safari : **npm run testui:safari**
   
 For Executing the API tests, run the following command:
