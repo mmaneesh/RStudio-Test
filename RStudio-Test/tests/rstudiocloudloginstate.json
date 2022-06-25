@@ -1,0 +1,65 @@
+{
+  "cookies": [
+    {
+      "sameSite": "Lax",
+      "name": "_ga",
+      "value": "GA1.2.703484940.1656195348",
+      "domain": ".rstudio.cloud",
+      "path": "/",
+      "expires": 1719267348,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_gid",
+      "value": "GA1.2.1043562882.1656195348",
+      "domain": ".rstudio.cloud",
+      "path": "/",
+      "expires": 1656281748,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_gat",
+      "value": "1",
+      "domain": ".rstudio.cloud",
+      "path": "/",
+      "expires": 1656195408,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_dd_s",
+      "value": "rum=1&id=5b81d8e5-5e43-4120-bad8-e21de9dd2a50&created=1656195348405&expire=1656196248405",
+      "domain": "rstudio.cloud",
+      "path": "/",
+      "expires": 1656196248,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_xsrf",
+      "value": "2|8ddae320|bd0804aa0ccf8eba92241017d368b38a|1656195347",
+      "domain": "login.rstudio.cloud",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "shinyapps_auth",
+      "value": "2|1:0|10:1656195349|14:shinyapps_auth|20:eyJpZCI6IDE1MjM1NjZ9|c1532196e019afcdd7df50442b5a8519cde29526cdfb0d9b3bd56492d4e8fe64",
+      "domain": "login.rstudio.cloud",
+      "path": "/",
+      "expires": 1657404951.276313,
+      "httpOnly": true,
+      "secure": true
+    }
+  ],
+  "origins": []
+}
